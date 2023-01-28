@@ -1,0 +1,5 @@
+.intro__conteiner {
+  display: flex;
+  flex-direction: column;
+  padding-top: 33px;
+}
