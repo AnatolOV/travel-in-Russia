@@ -41,7 +41,7 @@
 
 @media (max-width: 1023px) and (min-width: 768px) {
   .cover {
-    min-height: 440px;
+    min-height: 480px;
     padding-top: 115px;
     background-size: cover;
   }
