@@ -1,5 +1,4 @@
+#https://anatolov.github.io/travel-in-Russia/
 # Путешествия по России: адаптивная вёрстка
-
-
-## Ссылка на GIT Hub
-https://anatolov.github.io/travel-in-Russia/
+## Стек технологий: HTML, CSS, Адаптивная верстка, файловая структура организована по БЭМ nested.
+## Функционал: адаптивная верстка по макету из Figma.
